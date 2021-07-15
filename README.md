@@ -19,7 +19,7 @@ The VPC infrastructe is created using the following module:<br>
 https://github.com/felipesqf/terraform-fargate
 
 ## Archtecture
-![screenshot1](https://github.com/felipesqf/terraform-fargate-application/React-Node_new.png) 
+![screenshot1](https://github.com/felipesqf/terraform-fargate-application/blob/main/React-Node_new.png) 
 
 
 ## Requirements
